@@ -12,7 +12,6 @@
   ">
     <h1 style="margin: 0; font-size: 44px; letter-spacing: 0.8px;">Samar Maharjan</h1>
     <p style="margin: 10px 0 22px; font-size: 20px; color: #cbd5e1;">Full Stack Developer | Computer Science Student</p>
-
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 4px;">
       <a href="https://your-portfolio.com" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0b1222" alt="Portfolio" />
