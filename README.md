@@ -1,12 +1,12 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=cylinder&color=0:0b1120,50:0a3d5c,100:0ea5e9&height=220&section=header&text=Samar%20Maharjan&fontSize=52&fontColor=e2e8f0&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=62&descColor=38bdf8&descSize=18&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=rect&color=0:0b1120,40:0a3d5c,100:0ea5e9&height=220&text=Samar%20Maharjan&fontSize=52&fontColor=e2e8f0&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=62&descColor=38bdf8&descSize=18&animation=twinkling)
 
 <br/>
 
 <img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge" /><a href="https://www.linkedin.com/in/samar-maharjan/" target="_blank"><img src="https://img.shields.io/badge/SAMAR--MAHARJAN-0ea5e9?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/M%20GMAIL-333333?style=for-the-badge" /><a href="mailto:samarmhrzn257@gmail.com"><img src="https://img.shields.io/badge/SAMARMHRZN257%40GMAIL.COM-ea4335?style=for-the-badge" /></a>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20BASED%20IN-333333?style=for-the-badge" /><img src="https://img.shields.io/badge/LALITPUR%2C%20NEPAL-1d4ed8?style=for-the-badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PROFILE%20VIEWS-333333?style=for-the-badge" /><img src="https://komarev.com/ghpvc/?username=Samar-M3&style=for-the-badge&color=0ea5e9&label=" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20BASED%20IN-333333?style=for-the-badge" /><img src="https://img.shields.io/badge/LALITPUR%2C%20NEPAL-1d4ed8?style=for-the-badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PROFILE%20VIEWS-333333?style=for-the-badge" /><img src="https://komarev.com/ghpvc/?username=Samar-M3&style=for-the-badge&color=0ea5e9&label=%20" />
 
 </div>
 
@@ -55,5 +55,5 @@ Currently, I focus on improving my skills in full stack development and building
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0ea5e9,50:0a3d5c,100:0b1120&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:0a3d5c,100:0b1120&height=60&section=footer&animation=twinkling" width="100%" />
 </div>
