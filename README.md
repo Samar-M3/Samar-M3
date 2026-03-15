@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge" /><a href="https://www.linkedin.com/in/samar-maharjan/" target="_blank"><img src="https://img.shields.io/badge/SAMAR--MAHARJAN-0ea5e9?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/M%20GMAIL-333333?style=for-the-badge" /><a href="mailto:samarmhrzn257@gmail.com"><img src="https://img.shields.io/badge/SAMARMHRZN257%40GMAIL.COM-ea4335?style=for-the-badge" /></a>
+<img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge" /><a href="https://www.linkedin.com/in/samar-maharjan/" target="_blank"><img src="https://img.shields.io/badge/SAMAR--MAHARJAN-0ea5e9?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" /><a href="mailto:samarmhrzn257@gmail.com"><img src="https://img.shields.io/badge/SAMARMHRZN257%40GMAIL.COM-ea4335?style=for-the-badge" /></a>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20BASED%20IN-333333?style=for-the-badge" /><img src="https://img.shields.io/badge/LALITPUR%2C%20NEPAL-1d4ed8?style=for-the-badge" />&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Samar-M3&style=for-the-badge&color=0ea5e9&label=PROFILE%20VIEWS&labelColor=333333" alt="Profile views" />
+<img src="https://img.shields.io/badge/BASED%20IN-333333?style=for-the-badge&logo=googlemaps&logoColor=white" /><img src="https://img.shields.io/badge/LALITPUR%2C%20NEPAL-1d4ed8?style=for-the-badge" />&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Samar-M3&style=for-the-badge&color=0ea5e9&label=PROFILE%20VIEWS&labelColor=333333" alt="Profile views" />
 
 </div>
 
