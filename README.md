@@ -1,11 +1,6 @@
 <div align="center">
 
-<div style="width:100%;background:linear-gradient(135deg,#0b1120 0%,#0f172a 40%,#0a3d5c 70%,#0ea5e9 100%);padding:48px 20px 36px;border-radius:16px;margin-bottom:8px;">
-  <h1 style="margin:0 0 10px;font-size:48px;color:#e2e8f0;letter-spacing:1.5px;font-weight:700;">Samar Maharjan</h1>
-  <p style="margin:0;font-size:18px;color:#38bdf8;letter-spacing:3px;font-weight:400;">Full Stack Developer &nbsp;|&nbsp; Computer Science Student</p>
-</div>
-
-<br/>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:0a3d5c,100:0ea5e9&height=220&section=header&text=Samar%20Maharjan&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descColor=38bdf8&descSize=18)
 
 <a href="https://www.linkedin.com/in/samar-maharjan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1222" alt="LinkedIn" />
@@ -16,7 +11,7 @@
 <a href="https://maps.app.goo.gl/N2tayjNc1LQ5wUPQ6">
   <img src="https://img.shields.io/badge/Based%20In-Lalitpur%2C%20Nepal-ff6f61?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0b1222" alt="Location" />
 </a>
-<a href="https://github.com/samarmhrzn257">
+<a href="https://github.com/Samar-M3">
   <img src="https://komarev.com/ghpvc/?username=Samar-M3&style=for-the-badge&color=0ea5e9&label=Profile%20Views" alt="Profile Views" />
 </a>
 
@@ -60,12 +55,12 @@ Currently, I focus on improving my skills in full stack development and building
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarmhrzn257&show_icons=true&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarmhrzn257&layout=compact&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&text_color=cbd5e1" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samar-M3&show_icons=true&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-M3&layout=compact&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=38bdf8&text_color=cbd5e1" height="165" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,60:0a3d5c,100:0ea5e9&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0a3d5c,100:0b1120&height=80&section=footer" width="100%" />
 </div>
