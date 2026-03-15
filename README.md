@@ -1,19 +1,30 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:0a3d5c,100:0ea5e9&height=220&section=header&text=Samar%20Maharjan&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descColor=38bdf8&descSize=18)
+![banner](https://capsule-render.vercel.app/api?type=slice&color=0:0b1120,50:0a3d5c,100:0ea5e9&height=220&section=header&text=Samar%20Maharjan&fontSize=52&fontColor=e2e8f0&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descColor=38bdf8&descSize=18)
 
+<br/>
+
+<!-- Row 1 -->
 <a href="https://www.linkedin.com/in/samar-maharjan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1222" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.linkedin.com/in/samar-maharjan/" target="_blank">
+  <img src="https://img.shields.io/badge/SAMAR--MAHARJAN-0ea5e9?style=for-the-badge&logoColor=white" alt="LinkedIn Username" />
+</a>
+
+<br/>
+
+<!-- Row 2 -->
+<a href="mailto:samarmhrzn257@gmail.com">
+  <img src="https://img.shields.io/badge/M%20GMAIL-1f2937?style=for-the-badge&logoColor=white" alt="Gmail Label" />
 </a>
 <a href="mailto:samarmhrzn257@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-samarmhrzn257%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1222" alt="Gmail" />
+  <img src="https://img.shields.io/badge/SAMARMHRZN257%40GMAIL.COM-ea4335?style=for-the-badge&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://maps.app.goo.gl/N2tayjNc1LQ5wUPQ6">
-  <img src="https://img.shields.io/badge/Based%20In-Lalitpur%2C%20Nepal-ff6f61?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0b1222" alt="Location" />
-</a>
-<a href="https://github.com/Samar-M3">
-  <img src="https://komarev.com/ghpvc/?username=Samar-M3&style=for-the-badge&color=0ea5e9&label=Profile%20Views" alt="Profile Views" />
-</a>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20BASED%20IN-1f2937?style=for-the-badge&logoColor=white" alt="Based In Label" />
+<img src="https://img.shields.io/badge/LALITPUR%2C%20NEPAL-1d4ed8?style=for-the-badge&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-1f2937?style=for-the-badge&logoColor=white" alt="Profile Views Label" />
+<img src="https://komarev.com/ghpvc/?username=Samar-M3&style=for-the-badge&color=0ea5e9&label=" alt="Profile Views" />
 
 </div>
 
@@ -62,5 +73,5 @@ Currently, I focus on improving my skills in full stack development and building
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0a3d5c,100:0b1120&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0ea5e9,50:0a3d5c,100:0b1120&height=80&section=footer" width="100%" />
 </div>
