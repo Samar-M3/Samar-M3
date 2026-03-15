@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0b1120,40:0a3d5c,100:0ea5e9&text=Samar%20Maharjan&fontSize=52&fontColor=e2e8f0&fontAlign=50&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descSize=18&descColor=38bdf8&descAlign=50&descAlignY=62&animation=twinkling&section=header)
+![banner](https://capsule-render.vercel.app/api?type=blur&height=400&color=0:0b1120,40:0a3d5c,100:0ea5e9&text=Samar%20Maharjan&fontSize=52&fontColor=e2e8f0&fontAlign=50&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descSize=18&descColor=38bdf8&descAlign=50&descAlignY=55&animation=twinkling&section=header)
 
 <br/>
 
