@@ -20,7 +20,7 @@ I mainly work with the **MERN stack** and like turning ideas into real, working 
 Currently, I focus on improving my skills in full stack development and building projects that help me understand real-world software architecture.
 
 ---
-
+      
 ## 🛠 Tech Stack
 
 **Languages**
